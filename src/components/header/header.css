@@ -1,5 +1,5 @@
 header {
-  height: 100vh;
+  height: 80vh;
   padding-top: 7rem;
   overflow: hidden;
 }
@@ -46,7 +46,8 @@ header {
   margin-top: 4rem;
   border-radius: 12rem 12rem 0 0;
   overflow: hidden;
-  padding-top: 2.5rem;
+  /* padding-top: 2.5rem; */
+  padding: 5rem 1.5rem 1.5rem 1.5rem;
 }
 
 /* SCROLL DOWN */
